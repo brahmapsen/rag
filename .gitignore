@@ -1,0 +1,7 @@
+env/
+.csv
+extra/
+.env
+.chainlit
+db/
+__pycache__

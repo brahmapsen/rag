@@ -1,0 +1,14 @@
+python-dotenv
+langchain
+langchain-community
+openai
+pinecone-client
+unstructured
+tabulate
+pdf2image
+streamlit
+chainlit
+tiktoken
+chromadb
+sentence-transformers==2.2.2
+InstructorEmbedding
